@@ -3,26 +3,29 @@
     {
       "fileName": "1.jpg",
       "viewPortWidth": 10,
-      "distanceTop": 500,
+      "distanceTop": 0,
       "distanceLeft": 20,
-      "startMoving": 300,
-      "stopMoving": 1000
+      "startMoving": 0,
+      "stopMoving": 1500,
+      "moveDown": true
     },
     {
       "fileName": "2.jpg",
       "viewPortWidth": 10,
       "distanceTop": 1500,
       "distanceLeft": 50,
-      "startMoving": 300,
-      "stopMoving": 1000
+      "startMoving": 0,
+      "stopMoving": 1500,
+      "moveDown": true
     },
     {
       "fileName": "3.jpg",
-      "viewPortWidth": 20,
+      "viewPortWidth": 10,
       "distanceTop": 2500,
       "distanceLeft": 80,
-      "startMoving": 300,
-      "stopMoving": 1000
+      "startMoving": 0,
+      "stopMoving": 2000,
+      "moveDown": true
     }
   ]
 }
