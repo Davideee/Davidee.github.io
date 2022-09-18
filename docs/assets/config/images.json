@@ -53,6 +53,15 @@
       "zIndex": 6,
       "velocity": 20,
       "movement": "up"
+    },
+    {
+      "fileName": "unicorn.jpg",
+      "viewPortHeight": 10,
+      "distanceTop": 0,
+      "distanceLeft": 40,
+      "zIndex": 6,
+      "velocity": 20,
+      "movement": "up"
     }
   ]
 }
