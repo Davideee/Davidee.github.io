@@ -7,16 +7,18 @@
       "distanceLeft": 20,
       "zIndex": 1,
       "velocity": 10,
-      "movement": "down"
+      "movement": "down",
+      "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
     },
     {
-      "fileName": "appreciation.png",
+      "fileName": "hug.png",
       "viewPortHeight": 30,
       "distanceTop": 1200,
       "distanceLeft": 10,
       "zIndex": 2,
       "velocity": 70,
-      "movement": "up"
+      "movement": "up",
+      "description": "Dini mer isch cool."
     },
     {
       "fileName": "Marseille_Sky.png",
@@ -25,7 +27,8 @@
       "distanceLeft": 5,
       "zIndex": 1,
       "velocity": 10,
-      "movement": "static"
+      "movement": "static",
+      "description": "Dini mer isch cool."
     },
     {
       "fileName": "Marseille.png",
@@ -34,7 +37,8 @@
       "distanceLeft": 40,
       "zIndex": 4,
       "velocity": 50,
-      "movement": "down"
+      "movement": "down",
+      "description": "Dini mer isch cool."
     },
     {
       "fileName": "Pillow.png",
@@ -43,7 +47,8 @@
       "distanceLeft": 60,
       "zIndex": 5,
       "velocity": 40,
-      "movement": "down"
+      "movement": "down",
+      "description": "Dini mer isch cool."
     },
     {
       "fileName": "stayhungry.png",
@@ -52,7 +57,8 @@
       "distanceLeft": 40,
       "zIndex": 6,
       "velocity": 80,
-      "movement": "up"
+      "movement": "up",
+      "description": "Dini mer isch cool."
     }
   ]
 }
