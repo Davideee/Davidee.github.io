@@ -1,34 +1,34 @@
 {
   "images": [
     {
-      "fileName": "velo.jpg",
-      "viewPortHeight": 10,
+      "fileName": "FrauPortrait.png",
+      "viewPortHeight": 50,
       "distanceTop": 0,
       "distanceLeft": 20,
       "zIndex": 1,
-      "velocity": 75,
+      "velocity": 10,
       "movement": "down"
     },
     {
-      "fileName": "space.jpg",
-      "viewPortHeight": 10,
-      "distanceTop": 1500,
+      "fileName": "appreciation.png",
+      "viewPortHeight": 30,
+      "distanceTop": 1200,
       "distanceLeft": 10,
       "zIndex": 2,
-      "velocity": 90,
-      "movement": "down"
-    },
-    {
-      "fileName": "street.jpg",
-      "viewPortHeight": 10,
-      "distanceTop": 2500,
-      "distanceLeft": 80,
-      "zIndex": 3,
-      "velocity": 10,
+      "velocity": 70,
       "movement": "up"
     },
     {
-      "fileName": "sunset.jpg",
+      "fileName": "Marseille_Sky.png",
+      "viewPortHeight": 90,
+      "distanceTop": 2500,
+      "distanceLeft": 5,
+      "zIndex": 1,
+      "velocity": 10,
+      "movement": "static"
+    },
+    {
+      "fileName": "Marseille.png",
       "viewPortHeight": 40,
       "distanceTop": 2000,
       "distanceLeft": 40,
@@ -37,30 +37,21 @@
       "movement": "down"
     },
     {
-      "fileName": "waterfall.jpg",
-      "viewPortHeight": 30,
-      "distanceTop": 600,
+      "fileName": "Pillow.png",
+      "viewPortHeight": 60,
+      "distanceTop": 100,
       "distanceLeft": 60,
       "zIndex": 5,
       "velocity": 40,
       "movement": "down"
     },
     {
-      "fileName": "falcon.jpg",
-      "viewPortHeight": 10,
+      "fileName": "stayhungry.png",
+      "viewPortHeight": 70,
       "distanceTop": 3200,
       "distanceLeft": 40,
       "zIndex": 6,
-      "velocity": 20,
-      "movement": "up"
-    },
-    {
-      "fileName": "unicorn.jpg",
-      "viewPortHeight": 10,
-      "distanceTop": 0,
-      "distanceLeft": 40,
-      "zIndex": 6,
-      "velocity": 20,
+      "velocity": 80,
       "movement": "up"
     }
   ]
