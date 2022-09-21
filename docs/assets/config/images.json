@@ -6,7 +6,7 @@
       "distanceTop": 0,
       "distanceLeft": 5,
       "zIndex": 10,
-      "velocity": 100,
+      "velocity": 10,
       "movement": "static",
       "description": "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet."
     },
@@ -45,7 +45,7 @@
       "viewPortHeight": 60,
       "distanceTop": 0,
       "distanceLeft": 57.5,
-      "zIndex": 100,
+      "zIndex": 10,
       "velocity": 40,
       "movement": "down",
       "description": "Dini mer isch cool."
@@ -151,10 +151,10 @@
       "description": "Dini mer isch cool."
     },
     {
-      "fileName": "Flasche.png",
-      "viewPortHeight": 30,
-      "distanceTop": 10200,
-      "distanceLeft": 53,
+      "fileName": "PostIt.png",
+      "viewPortHeight": 80,
+      "distanceTop": 10300,
+      "distanceLeft": 40,
       "zIndex": 16,
       "velocity": 80,
       "movement": "up",
@@ -165,9 +165,29 @@
       "viewPortHeight": 40,
       "distanceTop": 5500,
       "distanceLeft": 0,
-      "zIndex": 1,
+      "zIndex": 2,
       "velocity": 80,
       "movement": "static",
+      "description": "Dini mer isch cool."
+    },
+    {
+      "fileName": "Wolken.png",
+      "viewPortHeight": 60,
+      "distanceTop": 6200,
+      "distanceLeft": 55,
+      "zIndex": 2,
+      "velocity": 40,
+      "movement": "static",
+      "description": "Dini mer isch cool."
+    },
+    {
+      "fileName": "sky.png",
+      "viewPortHeight": 65,
+      "distanceTop": 10000,
+      "distanceLeft": 0.5,
+      "zIndex": 1,
+      "velocity": 60,
+      "movement": "up",
       "description": "Dini mer isch cool."
     }
   ]
