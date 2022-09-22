@@ -175,7 +175,7 @@
       "viewPortHeight": 60,
       "distanceTop": 6200,
       "distanceLeft": 55,
-      "zIndex": 2,
+      "zIndex": 4,
       "velocity": 40,
       "movement": "static",
       "description": "Dini mer isch cool."
@@ -185,7 +185,7 @@
       "viewPortHeight": 65,
       "distanceTop": 10000,
       "distanceLeft": 0.5,
-      "zIndex": 1,
+      "zIndex": 3,
       "velocity": 60,
       "movement": "up",
       "description": "Dini mer isch cool."
