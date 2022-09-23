@@ -2,74 +2,74 @@
   "images": [
     {
       "fileName": "FrauPortrait.png",
-      "viewPortHeight": 50,
-      "distanceTop": 1500,
-      "distanceLeft": 50,
-      "zIndex": 10,
-      "velocity": 10,
-      "movement": "static"
+      "viewPortHeight": 100,
+      "distanceTop": 1900,
+      "distanceLeft": 6,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "up"
     },
     {
       "fileName": "hug.png",
-      "viewPortHeight": 30,
-      "distanceTop": 5200,
-      "distanceLeft": 57,
+      "viewPortHeight": 60,
+      "distanceTop": 5600,
+      "distanceLeft": 7,
       "zIndex": 10,
-      "velocity": 15,
+      "velocity": 30,
       "movement": "up"
     },
     {
       "fileName": "Marseille_Sky.png",
-      "viewPortHeight": 70,
-      "distanceTop": 3400,
+      "viewPortHeight": 122,
+      "distanceTop": 5550,
       "distanceLeft": 0,
-      "zIndex": 8,
-      "velocity": 12,
-      "movement": "up"
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
     },
     {
       "fileName": "Marseille.png",
-      "viewPortHeight": 50,
-      "distanceTop": 4500,
-      "distanceLeft": 30,
-      "zIndex": 4,
-      "velocity": 5,
+      "viewPortHeight": 100,
+      "distanceTop": 3220,
+      "distanceLeft": 2,
+      "zIndex": 1,
+      "velocity": 10,
       "movement": "down"
     },
     {
       "fileName": "Pillow.png",
-      "viewPortHeight": 60,
-      "distanceTop": 2700,
-      "distanceLeft": 57.5,
-      "zIndex": 10,
-      "velocity": 40,
-      "movement": "down"
-    },
-    {
-      "fileName": "stayhungry.png",
-      "viewPortHeight": 77.9,
-      "distanceTop": 2050,
-      "distanceLeft": 0,
-      "zIndex": 7,
-      "velocity": 10,
+      "viewPortHeight": 120,
+      "distanceTop": 1800,
+      "distanceLeft": 54,
+      "zIndex": 2,
+      "velocity": 0,
       "movement": "static"
     },
     {
+      "fileName": "stayhungry.png",
+      "viewPortHeight": 140,
+      "distanceTop": 2000,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 20,
+      "movement": "down"
+    },
+    {
       "fileName": "Handke.png",
-      "viewPortHeight": 30,
-      "distanceTop": 2700,
-      "distanceLeft": 20,
+      "viewPortHeight": 60,
+      "distanceTop": 7000,
+      "distanceLeft": 60,
       "zIndex": 13,
-      "velocity": 15,
+      "velocity": 90,
       "movement": "up"
     },
     {
       "fileName": "verbluehen_color.png",
-      "viewPortHeight": 60,
-      "distanceTop": 3900,
-      "distanceLeft": 10,
-      "zIndex": 7,
-      "velocity": 15,
+      "viewPortHeight": 115,
+      "distanceTop": 3150,
+      "distanceLeft": 55,
+      "zIndex": 2,
+      "velocity": 25,
       "movement": "down"
     },
     {
@@ -92,17 +92,17 @@
     },
     {
       "fileName": "Malerei_Frauvonhinten.png",
-      "viewPortHeight": 28,
-      "distanceTop": 7000,
-      "distanceLeft": 66,
-      "zIndex": 7,
-      "velocity": 20,
+      "viewPortHeight": 60,
+      "distanceTop": 3400,
+      "distanceLeft": 60,
+      "zIndex": 1,
+      "velocity": 30,
       "movement": "up"
     },
     {
       "fileName": "Flower.png",
       "viewPortHeight": 35,
-      "distanceTop": 2800,
+      "distanceTop": 5500,
       "distanceLeft": 74,
       "zIndex": 7,
       "velocity": 20,
@@ -110,11 +110,11 @@
     },
     {
       "fileName": "Malerei_Mannvonhinten.png",
-      "viewPortHeight": 30,
-      "distanceTop": 6620,
-      "distanceLeft": 70,
-      "zIndex": 15,
-      "velocity": 15,
+      "viewPortHeight": 80,
+      "distanceTop": 3600,
+      "distanceLeft": 56,
+      "zIndex": 2,
+      "velocity": 20,
       "movement": "up"
     },
     {
@@ -129,7 +129,7 @@
     {
       "fileName": "tuesttresbelle.png",
       "viewPortHeight": 40,
-      "distanceTop": 5300,
+      "distanceTop": 6000,
       "distanceLeft": 60,
       "zIndex": 16,
       "velocity": 15,
