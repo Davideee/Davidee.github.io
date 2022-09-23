@@ -2,7 +2,7 @@
   "images": [
     {
       "fileName": "FrauPortrait.png",
-      "viewPortHeight": 1050,
+      "viewPortHeight": 50,
       "distanceTop": 0,
       "distanceLeft": 5,
       "zIndex": 10,
@@ -43,7 +43,7 @@
     {
       "fileName": "Pillow.png",
       "viewPortHeight": 60,
-      "distanceTop": 1000,
+      "distanceTop": 2000,
       "distanceLeft": 57.5,
       "zIndex": 10,
       "velocity": 40,
