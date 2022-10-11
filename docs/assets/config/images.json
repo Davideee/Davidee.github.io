@@ -2,175 +2,256 @@
   "pageHeight": 850,
   "images": [
     {
-      "fileName": "FrauPortrait.png",
+      "fileName": "FrauPortrait.jpg",
       "viewPortHeight": 100,
-      "distanceTop": 1900,
-      "distanceLeft": 6,
+      "distanceTop": 1700,
+      "distanceLeft": 5,
       "zIndex": 1,
-      "velocity": 20,
-      "movement": "up"
-    },
-    {
-      "fileName": "hug.png",
-      "viewPortHeight": 60,
-      "distanceTop": 5600,
-      "distanceLeft": 7,
-      "zIndex": 10,
       "velocity": 30,
       "movement": "up"
     },
     {
-      "fileName": "Marseille_Sky.png",
-      "viewPortHeight": 122,
-      "distanceTop": 5550,
-      "distanceLeft": 0,
-      "zIndex": 1,
-      "velocity": 20,
-      "movement": "down"
-    },
-    {
-      "fileName": "Marseille.png",
+      "fileName": "Pillow.jpg",
       "viewPortHeight": 100,
-      "distanceTop": 3220,
-      "distanceLeft": 2,
-      "zIndex": 1,
-      "velocity": 10,
-      "movement": "down"
-    },
-    {
-      "fileName": "Pillow.png",
-      "viewPortHeight": 120,
       "distanceTop": 1800,
-      "distanceLeft": 54,
-      "zIndex": 2,
-      "velocity": 0,
+      "distanceLeft": 60,
+      "zIndex": 1,
+      "velocity": 30,
       "movement": "static"
     },
     {
-      "fileName": "stayhungry.png",
-      "viewPortHeight": 140,
-      "distanceTop": 2000,
+      "fileName": "stayhungry.jpg",
+      "viewPortHeight": 130,
+      "distanceTop": 2500,
       "distanceLeft": 0,
-      "zIndex": 2,
-      "velocity": 20,
+      "zIndex": 1,
+      "velocity": 10,
       "movement": "down"
     },
     {
       "fileName": "Handke.png",
-      "viewPortHeight": 60,
-      "distanceTop": 7000,
-      "distanceLeft": 60,
-      "zIndex": 13,
-      "velocity": 90,
+      "viewPortHeight": 70,
+      "distanceTop": 2600,
+      "distanceLeft": 56,
+      "zIndex": 1,
+      "velocity": 40,
       "movement": "up"
     },
     {
-      "fileName": "verbluehen_color.png",
-      "viewPortHeight": 115,
-      "distanceTop": 3150,
-      "distanceLeft": 55,
+      "fileName": "verbluehen_color.jpg",
+      "viewPortHeight": 130,
+      "distanceTop": 3200,
+      "distanceLeft": 49.66,
       "zIndex": 2,
-      "velocity": 25,
-      "movement": "down"
-    },
-    {
-      "fileName": "verbluehen_rosa.png",
-      "viewPortHeight": 70,
-      "distanceTop": 5900,
-      "distanceLeft": 5,
-      "zIndex": 11,
       "velocity": 10,
       "movement": "up"
     },
     {
-      "fileName": "warumliegtmeinherzsoschwerbeieuch.png",
-      "viewPortHeight": 60,
-      "distanceTop": 6100,
-      "distanceLeft": 0,
-      "zIndex": 7,
-      "velocity": 15,
+      "fileName": "PostIt.png",
+      "viewPortHeight": 130,
+      "distanceTop": 3600,
+      "distanceLeft": 10,
+      "zIndex": 2,
+      "velocity": 20,
+      "movement": "down"
+    },
+    {
+      "fileName": "Megafon_Illu.jpg",
+      "viewPortHeight": 80,
+      "distanceTop": 4180,
+      "distanceLeft": 45,
+      "zIndex": 2,
+      "velocity": 10,
+      "movement": "down"
+    },
+    {
+      "fileName": "Selbstportraits.png",
+      "viewPortHeight": 300,
+      "distanceTop": 4650,
+      "distanceLeft": 26,
+      "zIndex": 3,
+      "velocity": 30,
       "movement": "up"
     },
     {
-      "fileName": "Malerei_Frauvonhinten.png",
-      "viewPortHeight": 60,
-      "distanceTop": 3400,
+      "fileName": "Marseille_Sky.jpg",
+      "viewPortHeight": 124,
+      "distanceTop": 5600,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "down"
+    },
+    {
+      "fileName": "tuesttresbelle.png",
+      "viewPortHeight": 100,
+      "distanceTop": 5600,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 50,
+      "movement": "down"
+    },
+    {
+      "fileName": "desole.jpg",
+      "viewPortHeight": 50,
+      "distanceTop": 6550,
+      "distanceLeft": 50,
+      "zIndex": 2,
+      "velocity": 50,
+      "movement": "up"
+    },
+    {
+      "fileName": "etmaintenant.jpg",
+      "viewPortHeight": 50,
+      "distanceTop": 6650,
+      "distanceLeft": 5,
+      "zIndex": 1,
+      "velocity": 120,
+      "movement": "up"
+    },
+    {
+      "fileName": "tuesfort.jpg",
+      "viewPortHeight": 48.52,
+      "distanceTop": 7000,
+      "distanceLeft": 50.15,
+      "zIndex": 2,
+      "velocity": 120,
+      "movement": "static"
+    },    
+    {
+      "fileName": "Marseille.jpg",
+      "viewPortHeight": 100,
+      "distanceTop": 7300,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 20,
+      "movement": "up"
+    },
+    {
+      "fileName": "Malerei_Mannvonhinten.jpg",
+      "viewPortHeight": 90,
+      "distanceTop": 7900,
       "distanceLeft": 60,
+      "zIndex": 1,
+      "velocity": 10,
+      "movement": "down"
+    },
+    {
+      "fileName": "mains.jpg",
+      "viewPortHeight": 55,
+      "distanceTop": 8000,
+      "distanceLeft": 10,
+      "zIndex": 1,
+      "velocity": 40,
+      "movement": "up"
+    },
+    {
+      "fileName": "hug.jpg",
+      "viewPortHeight": 83,
+      "distanceTop": 8500,
+      "distanceLeft": 0,
+      "zIndex": 3,
+      "velocity": 10,
+      "movement": "up"
+    },
+    {
+      "fileName": "Sky.png",
+      "viewPortHeight": 80,
+      "distanceTop": 9000,
+      "distanceLeft": 53,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "down"
+    },
+    {
+      "fileName": "wolken.jpg",
+      "viewPortHeight": 120,
+      "distanceTop": 9200,
+      "distanceLeft": 3,
       "zIndex": 1,
       "velocity": 30,
       "movement": "up"
     },
     {
-      "fileName": "Flower.png",
-      "viewPortHeight": 35,
-      "distanceTop": 5500,
-      "distanceLeft": 74,
-      "zIndex": 7,
-      "velocity": 20,
-      "movement": "down"
-    },
-    {
-      "fileName": "Malerei_Mannvonhinten.png",
-      "viewPortHeight": 80,
-      "distanceTop": 3600,
-      "distanceLeft": 56,
-      "zIndex": 2,
-      "velocity": 20,
-      "movement": "up"
-    },
-    {
-      "fileName": "Marseille_Fussballplatz.png",
-      "viewPortHeight": 60,
-      "distanceTop": 5500,
-      "distanceLeft": 60,
+      "fileName": "rueblirot.png",
+      "viewPortHeight": 222,
+      "distanceTop": 9750,
+      "distanceLeft": -10,
       "zIndex": 1,
-      "velocity": 5,
-      "movement": "down"
-    },
-    {
-      "fileName": "tuesttresbelle.png",
-      "viewPortHeight": 40,
-      "distanceTop": 6000,
-      "distanceLeft": 60,
-      "zIndex": 16,
-      "velocity": 15,
+      "velocity": 10,
       "movement": "up"
     },
     {
-      "fileName": "PostIt.png",
-      "viewPortHeight": 80,
-      "distanceTop": 9300,
-      "distanceLeft": 40,
-      "zIndex": 16,
-      "velocity": 20,
-      "movement": "up"
+      "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
+      "viewPortHeight": 120,
+      "distanceTop": 11050,
+      "distanceLeft": 53,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "static"
     },
     {
-      "fileName": "Megafon_Illu.png",
-      "viewPortHeight": 40,
-      "distanceTop": 6500,
+      "fileName": "monde.jpg",
+      "viewPortHeight": 60,
+      "distanceTop": 11100,
       "distanceLeft": 0,
       "zIndex": 2,
-      "velocity": 10,
-      "movement": "static"
-    },
-    {
-      "fileName": "wolken.png",
-      "viewPortHeight": 60,
-      "distanceTop": 7200,
-      "distanceLeft": 55,
-      "zIndex": 4,
-      "velocity": 15,
-      "movement": "static"
-    },
-    {
-      "fileName": "sky.png",
-      "viewPortHeight": 65,
-      "distanceTop": 8000,
-      "distanceLeft": 0.5,
-      "zIndex": 3,
-      "velocity": 15,
+      "velocity": 100,
       "movement": "up"
-    }
+    },
+    {
+    "fileName": "SchwarzesLoch_weiss.png",
+    "viewPortHeight": 7,
+    "distanceTop": 11500,
+    "distanceLeft": 0,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "static"
+  },
+  {
+    "fileName": "Marseille_Fussballplatz.jpg",
+    "viewPortHeight": 150,
+    "distanceTop": 11800,
+    "distanceLeft": 5,
+    "zIndex": 1,
+    "velocity": 20,
+    "movement": "down"
+  },
+  {
+    "fileName": "verbluehen_rosa.jpg",
+    "viewPortHeight": 100,
+    "distanceTop": 12000,
+    "distanceLeft": 62,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "up"
+  },
+  {
+    "fileName": "espresso_rosa.png",
+    "viewPortHeight": 14,
+    "distanceTop": 12800,
+    "distanceLeft": 61,
+    "zIndex": 1,
+    "velocity": 20,
+    "movement": "down"
+  },
+  {
+    "fileName": "Malerei_Frauvonhinten.jpg",
+    "viewPortHeight": 80,
+    "distanceTop": 13100,
+    "distanceLeft": 0,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "up"
+  },
+  {
+    "fileName": "Flower.jpg",
+    "viewPortHeight": 91,
+    "distanceTop": 13300,
+    "distanceLeft": 60,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "down"
+  }
   ]
 }
