@@ -1,5 +1,6 @@
 {
   "pageHeight": 850,
+  "portraitFileName": "Nadja.jpg",
   "images": [
     {
       "fileName": "FrauPortrait.jpg",
@@ -117,7 +118,7 @@
       "zIndex": 2,
       "velocity": 120,
       "movement": "static"
-    },    
+    },
     {
       "fileName": "Marseille.jpg",
       "viewPortHeight": 100,
@@ -218,40 +219,40 @@
       "movement": "up"
     },
     {
-    "fileName": "SchwarzesLoch_weiss.png",
-    "viewPortHeight": 7,
-    "distanceTop": 11950,
-    "distanceLeft": 0,
-    "zIndex": 1,
-    "velocity": 30,
-    "movement": "static"
-  },
-  {
-    "fileName": "Marseille_Fussballplatz.jpg",
-    "viewPortHeight": 150,
-    "distanceTop": 12250,
-    "distanceLeft": 5,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "down"
-  },
-  {
-    "fileName": "verbluehen_rosa.jpg",
-    "viewPortHeight": 100,
-    "distanceTop": 12450,
-    "distanceLeft": 62,
-    "zIndex": 1,
-    "velocity": 30,
-    "movement": "up"
-  },
-  {
-    "fileName": "espresso_rosa.png",
-    "viewPortHeight": 14,
-    "distanceTop": 13250,
-    "distanceLeft": 61,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "down"
-  }
+      "fileName": "SchwarzesLoch_weiss.png",
+      "viewPortHeight": 7,
+      "distanceTop": 11950,
+      "distanceLeft": 0,
+      "zIndex": 1,
+      "velocity": 30,
+      "movement": "static"
+    },
+    {
+      "fileName": "Marseille_Fussballplatz.jpg",
+      "viewPortHeight": 150,
+      "distanceTop": 12250,
+      "distanceLeft": 5,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
+    },
+    {
+      "fileName": "verbluehen_rosa.jpg",
+      "viewPortHeight": 100,
+      "distanceTop": 12450,
+      "distanceLeft": 62,
+      "zIndex": 1,
+      "velocity": 30,
+      "movement": "up"
+    },
+    {
+      "fileName": "espresso_rosa.png",
+      "viewPortHeight": 14,
+      "distanceTop": 13250,
+      "distanceLeft": 61,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
+    }
   ]
 }
