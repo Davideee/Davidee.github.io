@@ -85,7 +85,7 @@
     {
       "fileName": "tuesttresbelle.png",
       "viewPortHeight": 60,
-      "distanceTop": 5750,
+      "distanceTop": 5850,
       "distanceLeft": 5,
       "zIndex": 2,
       "velocity": 50,
@@ -175,7 +175,7 @@
     {
       "fileName": "Malerei_Frauvonhinten.jpg",
       "viewPortHeight": 50,
-      "distanceTop": 10450,
+      "distanceTop": 10350,
       "distanceLeft": 0,
       "zIndex": 1,
       "velocity": 70,
@@ -192,7 +192,7 @@
     },
     {
       "fileName": "rueblirot.png",
-      "viewPortHeight": 150,
+      "viewPortHeight": 110,
       "distanceTop": 10900,
       "distanceLeft": 5,
       "zIndex": 1,
