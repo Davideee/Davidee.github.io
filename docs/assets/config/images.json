@@ -84,7 +84,7 @@
     },
     {
       "fileName": "tuesttresbelle.png",
-      "viewPortHeight": 80,
+      "viewPortHeight": 70,
       "distanceTop": 5700,
       "distanceLeft": 5,
       "zIndex": 2,
@@ -174,7 +174,7 @@
     },
     {
       "fileName": "Malerei_Frauvonhinten.jpg",
-      "viewPortHeight": 70,
+      "viewPortHeight": 50,
       "distanceTop": 10500,
       "distanceLeft": 0,
       "zIndex": 1,
@@ -192,7 +192,7 @@
     },
     {
       "fileName": "rueblirot.png",
-      "viewPortHeight": 215,
+      "viewPortHeight": 180,
       "distanceTop": 10900,
       "distanceLeft": -10.8,
       "zIndex": 1,
@@ -219,7 +219,7 @@
     },
     {
     "fileName": "SchwarzesLoch_weiss.png",
-    "viewPortHeight": 5,
+    "viewPortHeight": 3,
     "distanceTop": 13000,
     "distanceLeft": 8,
     "zIndex": 1,
