@@ -176,7 +176,7 @@
       "fileName": "Malerei_Frauvonhinten.jpg",
       "viewPortHeight": 50,
       "distanceTop": 10350,
-      "distanceLeft": 0,
+      "distanceLeft": 7,
       "zIndex": 1,
       "velocity": 70,
       "movement": "up"
@@ -192,7 +192,7 @@
     },
     {
       "fileName": "rueblirot.png",
-      "viewPortHeight": 125,
+      "viewPortHeight": 130,
       "distanceTop": 10900,
       "distanceLeft": 5,
       "zIndex": 1,
@@ -202,7 +202,7 @@
     {
       "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
       "viewPortHeight": 120,
-      "distanceTop": 12300,
+      "distanceTop": 12200,
       "distanceLeft": 50,
       "zIndex": 2,
       "velocity": 30,
