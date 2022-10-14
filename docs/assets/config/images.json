@@ -1,6 +1,5 @@
 {
   "pageHeight": 850,
-  "portraitFileName": "Nadja.jpg",
   "images": [
     {
       "fileName": "FrauPortrait.jpg",
@@ -23,7 +22,7 @@
     {
       "fileName": "stayhungry.jpg",
       "viewPortHeight": 130,
-      "distanceTop": 2500,
+      "distanceTop": 2700,
       "distanceLeft": 0,
       "zIndex": 1,
       "velocity": 10,
@@ -31,18 +30,18 @@
     },
     {
       "fileName": "Handke.png",
-      "viewPortHeight": 70,
-      "distanceTop": 2600,
-      "distanceLeft": 56,
+      "viewPortHeight": 60,
+      "distanceTop": 2800,
+      "distanceLeft": 60,
       "zIndex": 1,
       "velocity": 40,
       "movement": "up"
     },
     {
       "fileName": "verbluehen_color.jpg",
-      "viewPortHeight": 129,
-      "distanceTop": 3200,
-      "distanceLeft": 50.1,
+      "viewPortHeight": 120,
+      "distanceTop": 3400,
+      "distanceLeft": 51.8,
       "zIndex": 2,
       "velocity": 10,
       "movement": "up"
@@ -50,7 +49,7 @@
     {
       "fileName": "PostIt.png",
       "viewPortHeight": 130,
-      "distanceTop": 3600,
+      "distanceTop": 4000,
       "distanceLeft": 10,
       "zIndex": 2,
       "velocity": 20,
@@ -59,17 +58,17 @@
     {
       "fileName": "Megafon_Illu.jpg",
       "viewPortHeight": 80,
-      "distanceTop": 4180,
-      "distanceLeft": 45,
+      "distanceTop": 4450,
+      "distanceLeft": 51.5,
       "zIndex": 2,
       "velocity": 10,
       "movement": "down"
     },
     {
       "fileName": "Selbstportraits.png",
-      "viewPortHeight": 300,
-      "distanceTop": 4650,
-      "distanceLeft": 26,
+      "viewPortHeight": 250,
+      "distanceTop": 5050,
+      "distanceLeft": 35.1,
       "zIndex": 3,
       "velocity": 30,
       "movement": "up"
@@ -85,9 +84,9 @@
     },
     {
       "fileName": "tuesttresbelle.png",
-      "viewPortHeight": 100,
-      "distanceTop": 5600,
-      "distanceLeft": 0,
+      "viewPortHeight": 80,
+      "distanceTop": 5700,
+      "distanceLeft": 5,
       "zIndex": 2,
       "velocity": 50,
       "movement": "down"
@@ -95,7 +94,7 @@
     {
       "fileName": "desole.jpg",
       "viewPortHeight": 50,
-      "distanceTop": 6550,
+      "distanceTop": 6750,
       "distanceLeft": 50,
       "zIndex": 2,
       "velocity": 50,
@@ -104,7 +103,7 @@
     {
       "fileName": "etmaintenant.jpg",
       "viewPortHeight": 50,
-      "distanceTop": 6650,
+      "distanceTop": 6850,
       "distanceLeft": 5,
       "zIndex": 1,
       "velocity": 120,
@@ -113,16 +112,16 @@
     {
       "fileName": "tuesfort.jpg",
       "viewPortHeight": 48.52,
-      "distanceTop": 7000,
+      "distanceTop": 7200,
       "distanceLeft": 50.15,
       "zIndex": 2,
       "velocity": 120,
       "movement": "static"
-    },
+    },    
     {
       "fileName": "Marseille.jpg",
-      "viewPortHeight": 100,
-      "distanceTop": 7300,
+      "viewPortHeight": 80,
+      "distanceTop": 7600,
       "distanceLeft": 0,
       "zIndex": 2,
       "velocity": 20,
@@ -130,8 +129,8 @@
     },
     {
       "fileName": "Malerei_Mannvonhinten.jpg",
-      "viewPortHeight": 90,
-      "distanceTop": 7900,
+      "viewPortHeight": 80,
+      "distanceTop": 8300,
       "distanceLeft": 60,
       "zIndex": 1,
       "velocity": 10,
@@ -140,7 +139,7 @@
     {
       "fileName": "mains.jpg",
       "viewPortHeight": 55,
-      "distanceTop": 8000,
+      "distanceTop": 8300,
       "distanceLeft": 10,
       "zIndex": 1,
       "velocity": 40,
@@ -148,8 +147,8 @@
     },
     {
       "fileName": "hug.jpg",
-      "viewPortHeight": 82.4,
-      "distanceTop": 8500,
+      "viewPortHeight": 71.8,
+      "distanceTop": 8900,
       "distanceLeft": 0,
       "zIndex": 3,
       "velocity": 10,
@@ -157,17 +156,17 @@
     },
     {
       "fileName": "sky.png",
-      "viewPortHeight": 80,
-      "distanceTop": 9000,
-      "distanceLeft": 53,
+      "viewPortHeight": 60,
+      "distanceTop": 9500,
+      "distanceLeft": 61,
       "zIndex": 2,
       "velocity": 30,
       "movement": "down"
     },
     {
       "fileName": "wolken.jpg",
-      "viewPortHeight": 120,
-      "distanceTop": 9200,
+      "viewPortHeight": 130,
+      "distanceTop": 9500,
       "distanceLeft": 3,
       "zIndex": 1,
       "velocity": 30,
@@ -175,8 +174,8 @@
     },
     {
       "fileName": "Malerei_Frauvonhinten.jpg",
-      "viewPortHeight": 85,
-      "distanceTop": 9850,
+      "viewPortHeight": 70,
+      "distanceTop": 10500,
       "distanceLeft": 0,
       "zIndex": 1,
       "velocity": 70,
@@ -184,17 +183,17 @@
     },
     {
       "fileName": "Flower.jpg",
-      "viewPortHeight": 91,
-      "distanceTop": 9900,
-      "distanceLeft": 61,
+      "viewPortHeight": 70,
+      "distanceTop": 10350,
+      "distanceLeft": 65,
       "zIndex": 1,
       "velocity": 30,
       "movement": "static"
     },
     {
       "fileName": "rueblirot.png",
-      "viewPortHeight": 222,
-      "distanceTop": 10200,
+      "viewPortHeight": 215,
+      "distanceTop": 10900,
       "distanceLeft": -10.8,
       "zIndex": 1,
       "velocity": 20,
@@ -203,56 +202,56 @@
     {
       "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
       "viewPortHeight": 120,
-      "distanceTop": 11500,
-      "distanceLeft": 53,
+      "distanceTop": 12300,
+      "distanceLeft": 50,
       "zIndex": 2,
       "velocity": 30,
       "movement": "static"
     },
     {
       "fileName": "monde.jpg",
-      "viewPortHeight": 60,
-      "distanceTop": 11550,
-      "distanceLeft": 0,
+      "viewPortHeight": 50,
+      "distanceTop": 12400,
+      "distanceLeft": 5,
       "zIndex": 2,
       "velocity": 100,
       "movement": "up"
     },
     {
-      "fileName": "SchwarzesLoch_weiss.png",
-      "viewPortHeight": 7,
-      "distanceTop": 11950,
-      "distanceLeft": 0,
-      "zIndex": 1,
-      "velocity": 30,
-      "movement": "static"
-    },
-    {
-      "fileName": "Marseille_Fussballplatz.jpg",
-      "viewPortHeight": 150,
-      "distanceTop": 12250,
-      "distanceLeft": 5,
-      "zIndex": 1,
-      "velocity": 20,
-      "movement": "down"
-    },
-    {
-      "fileName": "verbluehen_rosa.jpg",
-      "viewPortHeight": 100,
-      "distanceTop": 12450,
-      "distanceLeft": 62,
-      "zIndex": 1,
-      "velocity": 30,
-      "movement": "up"
-    },
-    {
-      "fileName": "espresso_rosa.png",
-      "viewPortHeight": 14,
-      "distanceTop": 13250,
-      "distanceLeft": 61,
-      "zIndex": 1,
-      "velocity": 20,
-      "movement": "down"
-    }
+    "fileName": "SchwarzesLoch_weiss.png",
+    "viewPortHeight": 5,
+    "distanceTop": 13000,
+    "distanceLeft": 8,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "static"
+  },
+  {
+    "fileName": "Marseille_Fussballplatz.jpg",
+    "viewPortHeight": 150,
+    "distanceTop": 13450,
+    "distanceLeft": 0,
+    "zIndex": 1,
+    "velocity": 20,
+    "movement": "down"
+  },
+  {
+    "fileName": "verbluehen_rosa.jpg",
+    "viewPortHeight": 100,
+    "distanceTop": 13600,
+    "distanceLeft": 62,
+    "zIndex": 1,
+    "velocity": 30,
+    "movement": "up"
+  },
+  {
+    "fileName": "espresso_rosa.png",
+    "viewPortHeight": 10,
+    "distanceTop": 14500,
+    "distanceLeft": 65,
+    "zIndex": 1,
+    "velocity": 20,
+    "movement": "down"
+  }
   ]
 }
