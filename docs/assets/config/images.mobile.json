@@ -208,11 +208,11 @@
     "zIndex": 1,
     "velocity": 10,
     "movement": "up"
-    },    
+    },
     {
     "fileName": "HaHaHa_SchlachthausTheater.jpg",
     "viewPortHeight": 70,
-    "distanceTop": 7700,
+    "distanceTop": 7800,
     "distanceLeft": 0,
     "zIndex": 2,
     "velocity": 30,
@@ -221,7 +221,7 @@
     {
     "fileName": "verbluehen_rosa.jpg",
     "viewPortHeight": 60,
-    "distanceTop": 8000,
+    "distanceTop": 8300,
     "distanceLeft": 5,
     "zIndex": 2,
     "velocity": 30,
@@ -230,7 +230,7 @@
     {
     "fileName": "espresso_rosa.png",
     "viewPortHeight": 7,
-    "distanceTop": 8500,
+    "distanceTop": 8800,
     "distanceLeft": 10,
     "zIndex": 1,
     "velocity": 10,
@@ -239,7 +239,7 @@
     {
     "fileName": "Marseille_Fussballplatz.jpg",
     "viewPortHeight": 80,
-    "distanceTop": 8600,
+    "distanceTop": 8900,
     "distanceLeft": 0,
     "zIndex": 1,
     "velocity": 20,
