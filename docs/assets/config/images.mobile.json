@@ -127,7 +127,7 @@
       "zIndex": 2,
       "velocity": 120,
       "movement": "static"
-    },    
+    },
     {
       "fileName": "Marseille.jpg",
       "viewPortHeight": 30,
@@ -181,7 +181,7 @@
       "zIndex": 1,
       "velocity": 10,
       "movement": "down"
-    },  
+    },
     {
       "fileName": "warumliegtmeinherzsoschwerbeieuch.jpg",
       "viewPortHeight": 68,
@@ -201,40 +201,49 @@
       "movement": "up"
     },
     {
-    "fileName": "SchwarzesLoch_weiss.png",
-    "viewPortHeight": 2.3,
-    "distanceTop": 7650,
-    "distanceLeft": 6,
-    "zIndex": 1,
-    "velocity": 10,
-    "movement": "up"
-  },
-  {
-    "fileName": "verbluehen_rosa.jpg",
-    "viewPortHeight": 60,
-    "distanceTop": 7700,
-    "distanceLeft": 5,
-    "zIndex": 2,
-    "velocity": 30,
-    "movement": "up"
-  },
-  {
-    "fileName": "espresso_rosa.png",
-    "viewPortHeight": 7,
-    "distanceTop": 8200,
-    "distanceLeft": 10,
-    "zIndex": 1,
-    "velocity": 10,
-    "movement": "down"
-  },
-  {
-    "fileName": "Marseille_Fussballplatz.jpg",
-    "viewPortHeight": 80,
-    "distanceTop": 8300,
-    "distanceLeft": 0,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "down"
-  }
+      "fileName": "SchwarzesLoch_weiss.png",
+      "viewPortHeight": 2.3,
+      "distanceTop": 7650,
+      "distanceLeft": 6,
+      "zIndex": 1,
+      "velocity": 10,
+      "movement": "up"
+    },
+    {
+      "fileName": "HaHaHa_SchlachthausTheater.jpg",
+      "viewPortHeight": 70,
+      "distanceTop": 7800,
+      "distanceLeft": 0,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "static"
+    },
+    {
+      "fileName": "verbluehen_rosa.jpg",
+      "viewPortHeight": 60,
+      "distanceTop": 8300,
+      "distanceLeft": 5,
+      "zIndex": 2,
+      "velocity": 30,
+      "movement": "up"
+    },
+    {
+      "fileName": "espresso_rosa.png",
+      "viewPortHeight": 7,
+      "distanceTop": 8800,
+      "distanceLeft": 10,
+      "zIndex": 1,
+      "velocity": 10,
+      "movement": "down"
+    },
+    {
+      "fileName": "Marseille_Fussballplatz.jpg",
+      "viewPortHeight": 80,
+      "distanceTop": 8900,
+      "distanceLeft": 0,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
+    }
   ]
 }

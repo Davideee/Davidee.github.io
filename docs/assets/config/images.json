@@ -118,7 +118,7 @@
       "zIndex": 2,
       "velocity": 120,
       "movement": "static"
-    },    
+    },
     {
       "fileName": "Marseille.jpg",
       "viewPortHeight": 80,
@@ -219,49 +219,49 @@
       "movement": "up"
     },
     {
-    "fileName": "SchwarzesLoch_weiss.png",
-    "viewPortHeight": 3,
-    "distanceTop": 12700,
-    "distanceLeft": 8,
-    "zIndex": 1,
-    "velocity": 30,
-    "movement": "static"
-  },
-  {
-    "fileName": "HaHaHa_SchlachthausTheater.jpg",
-    "viewPortHeight": 100,
-    "distanceTop": 12900,
-    "distanceLeft": 10,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "up"
-  },
-  {
-    "fileName": "Marseille_Fussballplatz.jpg",
-    "viewPortHeight": 154,
-    "distanceTop": 14050,
-    "distanceLeft": 0,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "down"
-  },
-  {
-    "fileName": "verbluehen_rosa.jpg",
-    "viewPortHeight": 100,
-    "distanceTop": 14200,
-    "distanceLeft": 62,
-    "zIndex": 1,
-    "velocity": 30,
-    "movement": "up"
-  },
-  {
-    "fileName": "espresso_rosa.png",
-    "viewPortHeight": 10,
-    "distanceTop": 15100,
-    "distanceLeft": 65,
-    "zIndex": 1,
-    "velocity": 20,
-    "movement": "down"
-  }
+      "fileName": "SchwarzesLoch_weiss.png",
+      "viewPortHeight": 3,
+      "distanceTop": 12700,
+      "distanceLeft": 8,
+      "zIndex": 1,
+      "velocity": 30,
+      "movement": "static"
+    },
+    {
+      "fileName": "HaHaHa_SchlachthausTheater.jpg",
+      "viewPortHeight": 100,
+      "distanceTop": 12900,
+      "distanceLeft": 10,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "up"
+    },
+    {
+      "fileName": "Marseille_Fussballplatz.jpg",
+      "viewPortHeight": 154,
+      "distanceTop": 14050,
+      "distanceLeft": 0,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
+    },
+    {
+      "fileName": "verbluehen_rosa.jpg",
+      "viewPortHeight": 100,
+      "distanceTop": 14200,
+      "distanceLeft": 62,
+      "zIndex": 1,
+      "velocity": 30,
+      "movement": "up"
+    },
+    {
+      "fileName": "espresso_rosa.png",
+      "viewPortHeight": 10,
+      "distanceTop": 15100,
+      "distanceLeft": 65,
+      "zIndex": 1,
+      "velocity": 20,
+      "movement": "down"
+    }
   ]
 }
